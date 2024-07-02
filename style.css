@@ -6,6 +6,10 @@
     --cor-texto: #e7ecec;
 }
 
+@font-face {
+    font-family:  ;
+    src: url();
+}
 body{
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
