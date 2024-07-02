@@ -7,8 +7,8 @@
 }
 
 @font-face {
-    font-family:  ;
-    src: url();
+    font-family:'Japanese';
+    src: url('Japanese 3017.otf') format('truetype');
 }
 body{
     background-color: var(--cor-fundo);
@@ -29,6 +29,7 @@ body{
 
 h1{
     color: var(--cor-destaque);
+    font-family:'japanese', sans-serif;
 }
 
 
