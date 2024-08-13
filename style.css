@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Japanese';
-    src: url('Japanese\ 3017.ttf') format('truetype');
+    src: url('Japanese 3017.ttf') format('truetype');
 }
 body{
     background-color: var(--cor-fundo);
@@ -41,7 +41,8 @@ Na sequência, insira os comandos para estilizar os botões, textos, cantos arre
     border: none;
     border-radius: 15px;
     padding: 15px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s;e quais são as perguntas que irão nortear sua missão ?
+    ￼Sim, eu já sei 
 }
 
 button:hover{
