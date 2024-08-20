@@ -7,11 +7,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "A extinção de espécies nativas compromete a biodiversidade e o equilíbrio dos ecossistemas devido à destruição de habitats, poluição e espécies invasoras. Isso afeta a qualidade ambiental e as comunidades locais que dependem dessas espécies. Como podemos preservar as espécies nativas?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade.",
+                afirmacao: "preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução."
             },
             {
                 texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
