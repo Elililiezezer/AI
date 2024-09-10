@@ -11,11 +11,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Criação de mais áreas de proteção ambiental, com grande biodiversidade.",
-                afirmacao: "preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução."
+                afirmacao: "sim, pois preservando nosso meio ambiente, protegemos nossos animais e facilitamos sua reprodução "
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "evitando intervenções de espécies não nativas neste ambiente pode ser uma alternativa?",
+                afirmacao: "Sim, animais de um determinado local não estão preparados para lidar com predadores de outras áreas, levando a um extermínio da espécie local"
             }    
            
         ]
