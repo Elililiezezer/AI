@@ -33,7 +33,7 @@ h1{
 }
 
 
-Na sequência, insira os comandos para estilizar os botões, textos, cantos arredondados:
+Na sequência, insira os comandos para estilizar os botões, textos, cantos arredondados
 
 .button{
     background-color: var(--cor-secundaria);
