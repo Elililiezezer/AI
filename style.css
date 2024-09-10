@@ -3,7 +3,7 @@
     --cor-principal: #a6c089 ;
     --cor-secundaria: #09d3f2;
     --cor-destaque: #436e98;
-    --cor-texto: #e7ecec;
+    --cor-texto: #43a2b2;
 }
 
 @font-face {
@@ -31,9 +31,6 @@ h1{
     color: var(--cor-destaque);
     font-family:'Japanese', sans-serif;
 }
-
-
-Na sequência, insira os comandos para estilizar os botões, textos, cantos arredondados
 
 .button{
     background-color: var(--cor-secundaria);
